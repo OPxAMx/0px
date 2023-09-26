@@ -40,7 +40,7 @@
 	background-color: var(--bg-nav);
 	border-radius: 15px;
 	padding: 0.5rem;
-	max-width: 258px;
+	max-width: 256px;
 	border: 1px solid var(--nav-glow);
 	box-shadow: 0 0 10px 3px var(--nav-glow);
 	margin-bottom: 1.5rem;
@@ -79,7 +79,7 @@
 
 .s-item > img {
 	border-radius: 15px;
-	height: 15rem;
-	width: 15rem;
-	object-fit: cover;
+	height: 100%;
+	width: 100%;
+	object-fit: fill;
 }
