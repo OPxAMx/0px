@@ -1,0 +1,53 @@
+
+<img src="{LINK}" />
+
+<div class="s-item"> <a href="{LINK}" type="_blank" /><button>Download Full Size</button></a>  <img src="{LINK}" /></div>
+
+{LINK} =	 https://cdn.leonardo.ai/users/5cad0ae1-0f4d-4736-b615-a69aa7583269/generations/ab5b7ed6-ddc4-4e0d-b4c2-8141466e87c7/DreamShaper_v6_Creatively_striking_micro_detailed_masterpiece_0.jpg?w=512
+
+{LINK} = 	{html} + {IA.COM} + {typeCompte} + {IDCompte} + {VariationORNot} + {IDCreation} + {FT.Model} + {NameFile} + {exentionFile} + {?width}	 
+
+{LINK} = 	{https} + {cdn.leonardo.ai} + {users} + {5cad0ae1-0f4d-4736-b615-a69aa7583269} + {generations} + {ab5b7ed6-ddc4-4e0d-b4c2-8141466e87c7} + {DreamShaper_v6} + {striking_micro_detailed_masterpiece} + {jpg} + {?512}	 
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+https://cdn.leonardo.ai/users/5cad0ae1-0f4d-4736-b615-a69aa7583269
+
+https://cdn.leonardo.ai/users/9d02d630-f6da-47fc-bd8c-c0d7f7135b8a
+
+https://cdn.leonardo.ai/users/256dbc8f-a392-402e-9a93-6580b2c764f4
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+				{html} = {https}
+
+				{IA.COM} = {cdn.leonardo.ai}
+
+				{typeCompte} = {users}
+
+				{IDCompte} = {5cad0ae1-0f4d-4736-b615-a69aa7583269}
+					{IDCompte} = {@IDCompte}
+						{@IDCompte} = {5cad0ae1-0f4d-4736-b615-a69aa7583269};{256dbc8f-a392-402e-9a93-6580b2c764f4};{9d02d630-f6da-47fc-bd8c-c0d7f7135b8a}
+							{5cad0ae1-0f4d-4736-b615-a69aa7583269} = 
+							{256dbc8f-a392-402e-9a93-6580b2c764f4} =
+							{9d02d630-f6da-47fc-bd8c-c0d7f7135b8a} = 
+							
+				{VariationORNot} = {generations}
+
+				{IDCreation} = {ab5b7ed6-ddc4-4e0d-b4c2-8141466e87c7}
+					{IDCreation}
+					
+				{FT.Model} = {DreamShaper_v6}
+					{FT.Model}
+
+				{NameFile} = {striking_micro_detailed_masterpiece}
+					{NameFile} = {striking_micro_detailed_masterpiece} - {IDCreation}
+
+				{exentionFile} = {jpg}
+
+				{?width} = {?512}
