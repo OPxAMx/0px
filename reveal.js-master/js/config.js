@@ -94,7 +94,7 @@ export default {
 	touch: true,
 
 	// Loop the presentation
-	loop: false,
+	loop: true,
 
 	// Change the presentation direction to be RTL
 	rtl: false,
@@ -126,7 +126,7 @@ export default {
 	navigationMode: 'default',
 
 	// Randomizes the order of slides each time the presentation loads
-	shuffle: false,
+	shuffle: true,
 
 	// Turns fragments on and off globally
 	fragments: true,
@@ -147,7 +147,7 @@ export default {
 	pause: true,
 
 	// Flags if speaker notes should be visible to all viewers
-	showNotes: false,
+	showNotes: true,
 
 	// Flags if slides with data-visibility="hidden" should be kep visible
 	showHiddenSlides: false,
@@ -271,7 +271,7 @@ export default {
 	pdfPageHeightOffset: -1,
 
 	// Number of slides away from the current that are visible
-	viewDistance: 3,
+	viewDistance: 2,
 
 	// Number of slides away from the current that are visible on mobile
 	// devices. It is advisable to set this to a lower number than
@@ -279,7 +279,7 @@ export default {
 	mobileViewDistance: 2,
 
 	// The display mode that will be used to show slides
-	display: 'block',
+	display: 'grid',
 
 	// Hide cursor if inactive
 	hideInactiveCursor: true,
